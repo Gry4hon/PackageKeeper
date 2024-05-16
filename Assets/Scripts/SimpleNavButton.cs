@@ -12,8 +12,16 @@ public class SimpleNavButton : MonoBehaviour
 
     private void Start()
     {
-        Button btn = navButton.GetComponent<Button>();
-        btn.onClick.AddListener(NavigateScene);
+        if(navButton != null)
+        {
+            Button btn = navButton.GetComponent<Button>();
+            btn.onClick.AddListener(NavigateScene);
+        }
+        else
+        {
+            Debug.LogWarning("Please add a navButton object referance to: " + this.name);
+        }
+        
     }
 
     void NavigateScene()

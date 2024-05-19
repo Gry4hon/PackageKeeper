@@ -26,4 +26,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SettingsPages/ChangeUsernemPage.unity
     guid: 7ea44d37df9663c458c4a99c8503474b
+  - enabled: 1
+    path: Assets/Scenes/SettingsPages/ChangePasswordPage.unity
+    guid: 15e15189df2f1b742b2348819b43dc5a
   m_configObjects: {}

@@ -20,4 +20,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/NewListPage.unity
     guid: 9abc601774c6ce84ab9fb9ec0de46937
+  - enabled: 1
+    path: Assets/Scenes/SettingsPage.unity
+    guid: 9e2201f8f65616b4b96418ab1fd6913c
+  - enabled: 1
+    path: Assets/Scenes/SettingsPages/ChangeUsernemPage.unity
+    guid: 7ea44d37df9663c458c4a99c8503474b
   m_configObjects: {}

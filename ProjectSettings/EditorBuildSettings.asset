@@ -38,4 +38,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SettingsPages/DeleteAccountPage.unity
     guid: 320dca2e337921644b67997861255d3a
+  - enabled: 1
+    path: Assets/Scenes/ScannerPage.unity
+    guid: 0403a555636c12242b8d3ba6d911de7b
   m_configObjects: {}

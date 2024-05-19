@@ -946,7 +946,7 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 531407638}
-  m_Father: {fileID: 1841009931}
+  m_Father: {fileID: 1370535598}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -965,7 +965,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 67ea575ed8abb48bebd1b0fcd6553f4b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneNumber: 1
+  sceneNumber: 4
   navButton: {fileID: 1121644271}
 --- !u!114 &1121644271
 MonoBehaviour:
@@ -1282,6 +1282,7 @@ RectTransform:
   - {fileID: 1585994220}
   - {fileID: 1798589598}
   - {fileID: 1641712268}
+  - {fileID: 1121644269}
   - {fileID: 1841009931}
   - {fileID: 901842630}
   m_Father: {fileID: 0}
@@ -2184,7 +2185,6 @@ RectTransform:
   m_Children:
   - {fileID: 1422159982}
   - {fileID: 1770960056}
-  - {fileID: 1121644269}
   - {fileID: 2097715671}
   - {fileID: 2025449541}
   m_Father: {fileID: 1370535598}
